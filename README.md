@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Greetings tiny humans,
+
+I am learning about coding and all kinds of fun stuff!
